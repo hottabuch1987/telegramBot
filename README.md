@@ -1,6 +1,4 @@
-### Telegram Bot
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=telegram+bot+shop)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Telegram+bot+shop)](https://git.io/typing-svg)
 
 ### создать бота, добавить его в группу, сделав администратором
 ### создать файл .env и записать токен
