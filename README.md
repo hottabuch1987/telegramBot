@@ -12,8 +12,7 @@
 - серверная часть:
     - добавление названия, фото, описания и цены товара от администратора группы "/moderator".
 - клиентская часть: инлайн ссылки "/start"
-
+![Image alt](https://github.com/hottabuch1987/telegramBot/raw/main/img/1.png)
+![Image alt](https://github.com/hottabuch1987/telegramBot/raw/main/img/2.png)
 ![Image alt](https://github.com/hottabuch1987/telegramBot/raw/main/avatar.png)
-<img src="https://github.com/hottabuch1987/telegram_bot/avatar.png" alt="avatar">
-<img src="https://github.com/hottabuch1987/telegram_bot/img/1.png" alt="admin">
-<img src="https://github.com/hottabuch1987/telegram_bot/img/2.png" alt="admin">
+
