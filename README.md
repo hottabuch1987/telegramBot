@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Telegram+bot+shop)](https://git.io/typing-svg)
 
-### создать бота, добавить его в группу, сделав администратором
-### создать файл .env и записать токен
-### python3 -m venv venv
-### source venv/bin/activate
-### pip install -r req.txt
-### python make run 
+- создать бота, добавить его в группу, сделав администратором
+- создать файл .env и записать токен
+- python3 -m venv venv
+- source venv/bin/activate
+- pip install -r req.txt
+- python make run 
 
 # что умеет бот:
 - фильтрация необходимых слов через cenz.txt
